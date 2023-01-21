@@ -8,7 +8,8 @@
     "lodash": "^4.17.15",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.4.4"
+    "react-scripts": "^5.0.1",
+    "sass": "^1.52.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -30,9 +31,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "sass": "^1.53.0"
   },
   "proxy": "http://localhost:8001",
   "jest": {
